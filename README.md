@@ -1,1 +1,1 @@
-# Escuela_peque-os_creadores.JAVA
+# Escuela_pequenos_creadores.JAVA
