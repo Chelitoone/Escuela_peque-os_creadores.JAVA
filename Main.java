@@ -122,7 +122,7 @@ public class Main {
 }
 
 // Metodo para calcular total de niño
-private static double calcularTotalNino(Programa programa, Niño niño) {
+static double calcularTotalNino(Programa programa, Niño niño) {
     double total = programa.getValorBase();
     if (niño.tieneMaterialesEspeciales) {
         total += programa.VALOR_MATERIALES_ESPECIALES;
